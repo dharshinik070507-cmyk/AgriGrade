@@ -4,3 +4,8 @@ dist
 server/public
 vite.config.ts.*
 *.tar.gz
+*.json.key
+*firebase-adminsdk*.json
+.env
+.env.*
+!.env.example
